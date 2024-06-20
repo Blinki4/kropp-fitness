@@ -558,9 +558,9 @@ input[type='number'] {
   column-gap: clamp(30px, 10.42vw, 200px);
 }
 
-.motivation-card-image {
+/* .motivation-card-image {
   margin-block: -60px;
-}
+} */
 
 .motivation-card-body {
   padding-left: 35px;
